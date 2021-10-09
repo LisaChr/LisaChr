@@ -8,7 +8,7 @@ About me:
 
 Skills:
 - ®️ R
-- 🐍 Python (NumPy, Pandas, Sklearn, Pyod)
+- 🐍 Python (NumPy, Pandas, Sklearn)
 - 🐘 SQL
 
 <!---
